@@ -33,6 +33,8 @@ The code provided does not use any external libraries. It utilizes only built-in
 Built-in Python Functionalities:
 
 Input and Output:
+
 Basic Data Structures:
+
 String and List Manipulations:
 
