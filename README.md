@@ -1,4 +1,6 @@
-This code simulates the movement of a specialized castle on a chessboard, providing predefined unique paths for the castle to follow. Here is a step-by-step explanation of each part of the code:
+This code simulates the movement of a specialized castle on a chessboard, providing predefined unique paths for the castle to follow. 
+
+Here is a step-by-step explanation of each part of the code:
 
 parse_input()
 This function collects user input to define the initial setup of the chessboard.
